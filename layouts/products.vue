@@ -9,5 +9,5 @@
     <slot></slot>
   </div>
 
-  <Footer></Footer>
+  <Footer class="bottom-0 border border-red-500"></Footer>
 </template>
