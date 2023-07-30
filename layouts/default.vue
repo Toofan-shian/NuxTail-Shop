@@ -1,6 +1,7 @@
 <template>
-  <div class="min-h-screen flex flex-col border-8 border-green-600">
+  <div class="min-h-screen flex flex-col">
     <Header/>
+    <carousel/>
   
     <div class="container mx-auto p-4">
       <slot></slot>
